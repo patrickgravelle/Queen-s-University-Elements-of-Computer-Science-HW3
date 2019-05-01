@@ -2,7 +2,7 @@
 
 ## About
 
-The third assignment of the undergraduate level course "CISC 101 - Elements of Computer Science" at Queen's University, taught by Dr. Alan McLeod
+The third assignment of the undergraduate level course "CISC 101 - Elements of Computer Science" at Queen's University, taught by Dr. Alan McLeod, in the Winter Semester of 2017.
 
 ## Purpose
 
